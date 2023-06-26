@@ -29,6 +29,6 @@ device.shell(f'input swipe {x0} {y0} {x1} {y1}')
 [About library](https://pypi.org/project/pure-python-adb/)
 [More simple](https://itnext.io/how-you-can-control-your-android-device-with-python-45c3ab15e260)
 ## How works x, y 
-![Alt text](/path/to/img.jpg)
+![Cordinates](https://github.com/Asthera/Control-Android-Python/blob/main/1*VCKZWOpxz_dgLtYXbxgFPA.webp)
 
 
