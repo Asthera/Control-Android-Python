@@ -34,7 +34,7 @@ device.shell(f'input swipe {x0} {y0} {x1} {y1}')
 [More simple](https://itnext.io/how-you-can-control-your-android-device-with-python-45c3ab15e260)
 ## How works x, y
 
-For finding x,y you can use screenshot and finding in it point in pixels, in photo editor.
+***You can use screenshot and finding in it point in pixels, in photo editor.***
 
 ![Cordinates](https://github.com/Asthera/Control-Android-Python/blob/main/1*VCKZWOpxz_dgLtYXbxgFPA.webp)
 
